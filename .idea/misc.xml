@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/drawable/background_receiver.xml" value="0.1671875" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/drawable/background_sender.xml" value="0.1671875" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/drawable/btn_bg_setting_save.xml" value="0.214" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/drawable/linear_bg_setting.xml" value="0.214" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/drawable/sendiconcircle.xml" value="0.1671875" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/drawable/sign_activity_shape_file.xml" value="0.206" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/drawable/whatsappgradient.xml" value="0.1671875" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout-v21/activity_main.xml" value="0.12" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/activity_chat_detail.xml" value="0.16" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/activity_group_chat.xml" value="0.155078125" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/activity_main1.xml" value="0.155078125" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/activity_main2.xml" value="0.155078125" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/activity_setting.xml" value="0.18" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/activity_sign_in.xml" value="0.18" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/fragment_calls_fragments.xml" value="0.1" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/fragment_chats_fragments.xml" value="0.155078125" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/fragment_status_fragments.xml" value="0.155078125" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/sample_receiver.xml" value="0.25" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/sample_sender.xml" value="0.25" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/layout/samplerecyclerlayout.xml" value="0.2" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/menu/menu.xml" value="0.21" />
+        <entry key="..\:/AndroidApps/Whatsapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11197916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

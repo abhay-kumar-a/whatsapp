@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- shape_bg_outgoing_bubble.xml-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <rotate
+            android:fromDegrees="45"
+            android:pivotX="100%"
+            android:pivotY="0%"
+            android:toDegrees="0" >
+            <shape android:shape="rectangle" >
+                <solid android:color="#e7fdcc" />
+<!--                <stroke-->
+<!--                    android:color="#C8F3DD"-->
+<!--                    android:width="1dp"-->
+<!--                    />-->
+            </shape>
+        </rotate>
+    </item>
+    <item android:right="16dp">
+        <shape android:shape="rectangle" >
+            <solid android:color="#e7fdcc" />
+            <corners android:radius="8dp" />
+
+<!--            <stroke-->
+<!--                android:color="#C8F3DD"-->
+<!--                android:width="1dp"-->
+<!--                />-->
+        </shape>
+    </item>
+</layer-list>

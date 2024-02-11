@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932613200841",
+    "project_id": "whatsapp-c5104",
+    "storage_bucket": "whatsapp-c5104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932613200841:android:10f7ceca36d60fbb1e6618",
+        "android_client_info": {
+          "package_name": "com.abhaykumar.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932613200841-3furfl1lihp7f7mnf9d9fj22thsbvafs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Rb23n9iGo3J4OGPvcV2MlYq_nJE-0QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932613200841-3furfl1lihp7f7mnf9d9fj22thsbvafs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
